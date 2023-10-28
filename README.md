@@ -12,7 +12,7 @@ Este sistema esta construido con tecnologías WEB tales como Spring Boot y Vue, 
 * Autorización y Autenticación gestionadas con Spring Security.
 * MySQL como SGBD desplegado en AWS con el servicio RDS
 
-También se utilizó herramientas como JIB Maven Plugin y Maven Profiles para automatizar y agilizar el proceso de empaquetación del proyecto y creación de un contenedor Docker para su posterior despligue.
+También se utilizó herramientas como JIB Maven Plugin y Maven Profiles para automatizar y agilizar el proceso de empaquetación del proyecto y de la compilación del frontend y su traslado a la carpeta static, y la creación de un contenedor Docker para su posterior despligue.
 
 
 ### En el FrontEnd (Vue JS) tenemos las sisguientes características
