@@ -23,7 +23,7 @@ También se utilizó herramientas como JIB Maven Plugin y Maven Profiles para au
 
 
 ### Enlace del backend desplegado en Render.com
-https://inventory-container.onrender.com
+https://inventory-container.onrender.com (No disponible temporalmente)
 
 ## Entitad Relación
 ![Entity Relationship](./entity_relationship.png)
